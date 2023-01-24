@@ -1,5 +1,6 @@
 {
   "name": "chat",
+  "type": "module",
   "version": "1.0.0",
   "description": "chat_project",
   "main": "index.js",
