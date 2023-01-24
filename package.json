@@ -1,6 +1,5 @@
 {
   "name": "chat",
-  "type": "module",
   "version": "1.0.0",
   "description": "chat_project",
   "main": "index.js",
@@ -18,6 +17,7 @@
   },
   "homepage": "https://github.com/Jywan/socketChat#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
   }
 }
